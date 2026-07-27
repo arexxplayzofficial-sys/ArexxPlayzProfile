@@ -2,7 +2,7 @@
 
 A modern gaming-inspired personal profile website featuring premium UI, glassmorphism, smooth animations, and responsive design.
 
-![Banner](Mikey Sano.jpg)
+![Banner](images/Mikey Sano.jpg)
 
 ---
 
